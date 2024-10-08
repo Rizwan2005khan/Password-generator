@@ -10,7 +10,7 @@ The **Random Password Generator** is a simple web application designed to help u
 - **Responsive Design:** The application is fully responsive and works on both desktop and mobile devices.
   
 ## Demo
-[Check out the live demo here!](#)
+https://rizwan2005khan.github.io/Password-generator/
 
 ## How to Use
 1. Select the length of the password using the slider or input field.
@@ -24,18 +24,16 @@ The **Random Password Generator** is a simple web application designed to help u
 - **JavaScript**: Handles password generation logic and clipboard functionality.
 
 ## Screenshots
-(Include screenshots here to showcase the user interface of your project)
+
+![random password](https://github.com/user-attachments/assets/c7888fef-6249-4a1c-9e7e-911ff34d8f8f)
 
 ## Installation
 To run this project locally, follow these steps:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/random-password-generator.git
+    [git clone https://github.com/your-username/random-password-generator.git](https://rizwan2005khan.github.io/Password-generator/)
     ```
 2. Open the `index.html` file in your preferred browser.
 
 ## Contributing
 Feel free to contribute to this project by creating pull requests, submitting issues, or providing suggestions. Contributions are always welcome!
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
